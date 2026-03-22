@@ -1,6 +1,5 @@
 {
     "recommendations": [
-        "vscjava.vscode-gradle",
         "GeForceLegend.vscode-glsl",
         "GeForceLegend.vscode-mcshader",
         "HyperCol.minecraft-shaders-devtools"
